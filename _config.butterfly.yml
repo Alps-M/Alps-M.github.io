@@ -17,6 +17,10 @@ nav_info:
   logo: # image
   display_title: true # true or false
 
+admin:
+  username: miaozq
+  password_hash: $2a$10$7OOt6JCsUymh9a3Od11/YuZBJX2X.PfAOEKFoNs55fXUt.LG5vht.
+  secret: mzq
 # Code Blocks (代碼相關)
 # --------------------------------------
 
